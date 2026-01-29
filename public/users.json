@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "id": "u001",
+      "name": "Asha Rao",
+      "email": "asha.rao@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Active",
+      "joinedAt": "2024-01-12T08:30:00Z",
+      "bio": "Frontend developer who enjoys clean UI and smooth animations.",
+      "lastSeen": "2026-01-25T14:10:00Z"
+    },
+    {
+      "id": "u002",
+      "name": "Rohit Sharma",
+      "email": "rohit.sharma@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Inactive",
+      "joinedAt": "2023-11-03T10:15:00Z",
+      "bio": "Product-focused engineer with interest in UX.",
+      "lastSeen": "2025-12-10T09:40:00Z"
+    },
+    {
+      "id": "u003",
+      "name": "Meera Patel",
+      "email": "meera.patel@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Active",
+      "joinedAt": "2023-06-18T11:20:00Z",
+      "bio": "Designer turned frontend engineer.",
+      "lastSeen": "2026-01-20T12:00:00Z"
+    },
+    {
+      "id": "u004",
+      "name": "Kunal Verma",
+      "email": "kunal.verma@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Active",
+      "joinedAt": "2022-09-27T09:00:00Z",
+      "bio": "Enjoys building reusable UI components.",
+      "lastSeen": "2026-01-22T08:45:00Z"
+    },
+    {
+      "id": "u005",
+      "name": "Priya Singh",
+      "email": "priya.singh@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Inactive",
+      "joinedAt": "2021-12-14T14:10:00Z",
+      "bio": "Frontend dev with a strong eye for detail.",
+      "lastSeen": "2025-10-01T16:20:00Z"
+    },
+
+    {
+      "id": "u006",
+      "name": "Aditya Malhotra",
+      "email": "aditya.malhotra@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Active",
+      "joinedAt": "2024-03-05T07:45:00Z",
+      "bio": "Loves performance optimization and animations.",
+      "lastSeen": "2026-01-24T18:30:00Z"
+    },
+    {
+      "id": "u007",
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Inactive",
+      "joinedAt": "2022-05-22T13:50:00Z",
+      "bio": "UX-oriented frontend engineer.",
+      "lastSeen": "2025-09-15T10:10:00Z"
+    },
+    {
+      "id": "u008",
+      "name": "Siddharth Jain",
+      "email": "siddharth.jain@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Active",
+      "joinedAt": "2023-08-11T09:30:00Z",
+      "bio": "Enjoys building dashboards and data-heavy UIs.",
+      "lastSeen": "2026-01-26T07:15:00Z"
+    },
+    {
+      "id": "u009",
+      "name": "Ananya Iyer",
+      "email": "ananya.iyer@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Active",
+      "joinedAt": "2024-07-19T12:05:00Z",
+      "bio": "Frontend intern passionate about design systems.",
+      "lastSeen": "2026-01-23T11:40:00Z"
+    },
+    {
+      "id": "u010",
+      "name": "Vikram Nair",
+      "email": "vikram.nair@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Inactive",
+      "joinedAt": "2021-03-08T08:00:00Z",
+      "bio": "Senior UI engineer mentoring juniors.",
+      "lastSeen": "2025-08-30T17:55:00Z"
+    },
+
+    {
+      "id": "u011",
+      "name": "Pooja Mehta",
+      "email": "pooja.mehta@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Active",
+      "joinedAt": "2023-01-10T10:10:00Z",
+      "bio": "Strong believer in accessible UI.",
+      "lastSeen": "2026-01-21T09:25:00Z"
+    },
+    {
+      "id": "u012",
+      "name": "Rahul Khanna",
+      "email": "rahul.khanna@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Inactive",
+      "joinedAt": "2022-10-02T16:40:00Z",
+      "bio": "Enjoys refactoring legacy frontend code.",
+      "lastSeen": "2025-11-02T14:00:00Z"
+    },
+    {
+      "id": "u013",
+      "name": "Simran Kaur",
+      "email": "simran.kaur@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Active",
+      "joinedAt": "2024-05-29T09:15:00Z",
+      "bio": "Frontend developer with animation-first mindset.",
+      "lastSeen": "2026-01-26T06:30:00Z"
+    },
+    {
+      "id": "u014",
+      "name": "Arjun Desai",
+      "email": "arjun.desai@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Active",
+      "joinedAt": "2023-04-17T11:45:00Z",
+      "bio": "Enjoys building complex UI logic cleanly.",
+      "lastSeen": "2026-01-24T15:50:00Z"
+    },
+    {
+      "id": "u015",
+      "name": "Ishita Banerjee",
+      "email": "ishita.banerjee@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Inactive",
+      "joinedAt": "2021-07-06T10:00:00Z",
+      "bio": "Product designer learning frontend.",
+      "lastSeen": "2025-06-12T13:10:00Z"
+    },
+
+    {
+      "id": "u016",
+      "name": "Mohit Agarwal",
+      "email": "mohit.agarwal@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Active",
+      "joinedAt": "2024-02-20T08:20:00Z",
+      "bio": "Enjoys building tables, filters, and pagination logic.",
+      "lastSeen": "2026-01-25T19:05:00Z"
+    },
+    {
+      "id": "u017",
+      "name": "Sneha Kulkarni",
+      "email": "sneha.kulkarni@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=4",
+      "status": "Inactive",
+      "joinedAt": "2022-02-14T12:00:00Z",
+      "bio": "UX researcher turned frontend dev.",
+      "lastSeen": "2025-09-20T10:30:00Z"
+    },
+    {
+      "id": "u018",
+      "name": "Ravi Prakash",
+      "email": "ravi.prakash@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Active",
+      "joinedAt": "2023-12-01T07:10:00Z",
+      "bio": "Likes building data-driven UIs.",
+      "lastSeen": "2026-01-26T08:00:00Z"
+    },
+    {
+      "id": "u019",
+      "name": "Tanvi Joshi",
+      "email": "tanvi.joshi@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=8",
+      "status": "Active",
+      "joinedAt": "2024-08-09T09:55:00Z",
+      "bio": "Frontend intern focused on polish and UX.",
+      "lastSeen": "2026-01-23T17:45:00Z"
+    },
+    {
+      "id": "u020",
+      "name": "Nikhil Bansal",
+      "email": "nikhil.bansal@example.com",
+      "avatar": "https://i.pravatar.cc/100?img=2",
+      "status": "Inactive",
+      "joinedAt": "2020-11-30T08:35:00Z",
+      "bio": "Previously worked on large-scale dashboards.",
+      "lastSeen": "2025-05-18T09:00:00Z"
+    }
+  ]
+}
